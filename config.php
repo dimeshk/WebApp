@@ -1,9 +1,9 @@
 <?php
 
 $databaseHost = 'localhost';
-$databaseName = 'test';
-$databaseUsername = 'root';
-$databasePassword = 'Welcome-123';
+$databaseName = 'webapp';
+$databaseUsername = 'octopus';
+$databasePassword = 'Webapp-123';
 
 $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
  
